@@ -1,2 +1,7 @@
-# demo-escribania-villola
-Demo web para Escribanía Villola — diseñada por eterlab.
+# Escribanía Villola
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
